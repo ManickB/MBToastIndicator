@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name             = 'MBToastIndicator'
-  s.version          = '0.3.0'
+  s.version          = '0.1.0'
   s.summary          = 'A subclass of uiview that Provides Toast'
 
 s.description      = <<-DESC
