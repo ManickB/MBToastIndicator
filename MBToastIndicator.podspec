@@ -13,12 +13,9 @@ DESC
   s.license          = 'MIT'
   s.author           = { 'Manick' => 'manicktesting16@gmail.com' }
   s.source           = { :git => 'https://github.com/ManickB/MBToastIndicator.git', :tag => s.version.to_s }
- s.social_media_url = 'https://twitter.com/ManickThangaraj'
+ s.social_media_url = 'https://twitter.com/Manickam46'
  s.platform     = :ios, '8.0'
  s.requires_arc = true
 
- s.source_files = 'Pod/Classes/**/*'
- s.resource_bundles = {
-'MBToastIndicator' => ['Pod/Assets/*.png']
-}
+ s.source_files = 'MBToastIndicator/Classes/**/*'
 end
