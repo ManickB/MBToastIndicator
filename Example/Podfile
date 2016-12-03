@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MBToastIndicator_Example' do
+  pod 'MBToastIndicator', :path => '../'
+
+  target 'MBToastIndicator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
