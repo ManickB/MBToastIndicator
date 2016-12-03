@@ -1,9 +1,8 @@
 # MBToastIndicator
-
-[![CI Status](http://img.shields.io/travis/hari/MBToastIndicator.svg?style=flat)](https://travis-ci.org/hari/MBToastIndicator)
 [![Version](https://img.shields.io/cocoapods/v/MBToastIndicator.svg?style=flat)](http://cocoapods.org/pods/MBToastIndicator)
 [![License](https://img.shields.io/cocoapods/l/MBToastIndicator.svg?style=flat)](http://cocoapods.org/pods/MBToastIndicator)
 [![Platform](https://img.shields.io/cocoapods/p/MBToastIndicator.svg?style=flat)](http://cocoapods.org/pods/MBToastIndicator)
+
 
 ## Example
 
