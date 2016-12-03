@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary          = 'A subclass of uiview that Provides Toast'
 
 s.description      = <<-DESC
-This CocoaPod provides the ability to use a UILabel that may be started and stopped blinking.
+This CocoaPod provides the ability to use a UIView that may be show and hide Toaster.
 DESC
 
   s.homepage         = 'https://github.com/ManickB/MBToastIndicator'

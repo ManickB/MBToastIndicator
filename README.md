@@ -27,3 +27,10 @@ Manick, manicktesting16@gmail.com
 ## License
 
 MBToastIndicator is available under the MIT license. See the LICENSE file for more info.
+
+
+
+
+BlinkingLabel is available under the MIT license. See the LICENSE file for more info.
+
+
