@@ -22,7 +22,7 @@ pod "MBToastIndicator"
 
 ## Author
 
-hari, jana.hariprasad@gmail.com
+Manick, manicktesting16@gmail.com
 
 ## License
 
